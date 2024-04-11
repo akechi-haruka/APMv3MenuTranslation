@@ -7,6 +7,7 @@
 テストボタン または ボタン1 を押すと終了します\nタッチパネルでも操作できます=Press the test button or button 1 to exit.\nYou can also use the touch panel.
 テストボタン または ボタン1 を押すと端末認証をキャンセルします\nタッチパネルでも操作できます=Press the test button or button 1 to cancel the terminal authentication.\nYou can also use the touch panel.
 指を使ってマルチタッチが反応しているか確認してください\n指を使ってラインを描くことができるか確認してください\nタッチパネルの調整はシステムテストモードで実施できます\nテストボタン または ボタン1 で終了します\r=Check if the multi-touch panel is responding using your fingers.\nMake sure you can draw a line using your finger.\nTouch panel sensitivity can be adjusted in System Test Mode.\nPress the test button or button 1 to exit.\r
+\nタッチパネルを認識していません\n\nテストボタン または ボタン1 で終了します=\nThe touch panel is not recognized.\nPress the test button or button 1 to exit.
 
 稼働状況(ブックキーピング)=Bookkeeping
 稼働開始情報=Operation Start Information
@@ -170,4 +171,5 @@ LED 制御ボード=LED Control Board
 システムテストモードを起動しますか?=Do you want to switch to System Test Mode?
 
 ALL.Netの接続状態をサブシステムテストモードで確認し、問題を解決してください=Check the connection status to All.Net in the sub-system test mode and resolve any problems.
+タッチパネルの接続を確認してください=Check the connection of the touch panel.
 筐体の電源を入れなおしてください。電源OFF/ONで復旧しない場合は、カスタマサポートへ連絡してください=Please turn off the power.\nIf the error is not recovered after power OFF/ON, please contact customer support.
