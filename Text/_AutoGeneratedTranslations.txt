@@ -1,0 +1,6 @@
+﻿たいとる\n=Want\n
+接続=connection
+
+
+
+ALL.Net P-ras MULTI サンプルプログラム 2=All.net P-RAS Multi Sample Program 2
