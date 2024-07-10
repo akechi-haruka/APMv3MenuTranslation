@@ -40,7 +40,7 @@ Aimeカードリーダー\nテスト = AIME Card Reader Test
 サービスクレジット=Credits from services
 トータルクレジット=Total credits
 
-r:"^最新情報取得時刻：(.*?)\r$"=Time of last information acquisition: $1\r
+r:"^最新情報取得時刻：(.*?)$"=Time of last information acquisition: $1
 ゲームID   : =Game ID    :
 タイトル名 : =Title Name :
 アプリケーションデータ=Application Data
@@ -130,6 +130,7 @@ r:"^ボタン([0-9])$"=Button $1
 ホームボタン=Home Button
 USBゲームパッド=USB Gamepad
 未接続=Not conn.
+接続=Connected
 
 コインブロッカー=Coin Blocker
 コイン投入不可=Coins blocked

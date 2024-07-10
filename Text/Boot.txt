@@ -25,5 +25,6 @@ LEDボード =LED Board
 開始=Start
 
 サービスボタンを押すと対処方法を表示します=Press the service button to display how to deal with this error.
+サービスマニュアルで対処方法を確認してください=Please check the service manual how to deal with this error.
 ボタンを押すとゲームが起動します。=Press any button to continue.
 を認識できません。=cannot be recognized.
