@@ -117,6 +117,7 @@ ALL.Net 警告表示=All.Net Caution
 取引金額=Transaction Amount
 取引前残高=Balance Before
 取引後残高=Balance After
+成功=Success
 
 入力テスト=Input Test
 レバー上=Lever Up
