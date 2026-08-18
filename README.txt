@@ -4,5 +4,4 @@ APMv3 Menu System Translation © 2024 by Haruka Akechi is licensed under Creativ
 
 ------------
 
-Place in BepInEx/Translation/en/Text.
-
+This is now maintained at https://github.com/akechi-haruka/APMExtensions
